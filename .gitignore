@@ -1,0 +1,6 @@
+# Private copy with personal contact details (phone number), kept off GitHub
+*.local.html
+
+# OS files
+.DS_Store
+Thumbs.db
